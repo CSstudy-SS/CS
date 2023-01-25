@@ -20,7 +20,6 @@
 | ------ | ------------------------------------------------ |
 | 김준엽 | [@JunYupK](https://github.com/JunYupK)           |
 | 조원형 | [@JoWonHyeung](https://github.com/JoWonHyeung)   |
-| 신유창 | [@fluencygod](https://github.com/fluencygod)     |
 | 박세정 | [@sejeong-park](https://github.com/sejeong-park) |
 | 이수민 | [@sumeen99](https://github.com/sumeen99)         |
 
