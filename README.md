@@ -30,5 +30,5 @@
 | 23.01.05 | 운영체제란?                      | [1주차 질문](/1주차.md) |
 | 23.01.13 | 프로세스와 스레드                | [2주차 질문](/2주차.md) |
 | 23.01.20 | 인터럽트와 시스템콜 \| OSI 7계층 | [3주차 질문](/3주차.md) |
-| 23.01.27 | TCP 3,4 handshaking \| PCB \| Context switching \| IPC |                         |
+| 23.01.27 | TCP 3,4 handshaking \| PCB \| Context switching \| IPC | [4주차 질문](/4주차.md)                       |
 |          |                                  |                         |
