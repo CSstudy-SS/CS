@@ -33,6 +33,7 @@
 | 23.01.27 | TCP 3,4 handshaking \| PCB \| Context switching \| IPC | [4주차 질문](/4주차.md)                       |
 |   23.02.03  |  CPU 스케줄링 \| 교착 상태(DeadLock) \| TCP\| IP 흐름제어 & 혼잡제어                                | [5주차 질문](/5주차.md) |
 |23.02.10| Race Condition \| 세마포어 & 뮤텍스 \| UDP|[6주차 질문](/6주차.md) |
-|23.02.17| 페이징&세그먼테이션 \| 페이지 교체 알고리즘 \| 대칭키&공개키 | [7주차 질문](/7주차.md)
-|23.02.24| 메모리 \| 파일 시스템 \| HTTP & HTTPS | [8주차 질문](/8주차.md)
+|23.02.17| 페이징&세그먼테이션 \| 페이지 교체 알고리즘 \| 대칭키&공개키 | [7주차 질문](/7주차.md)|
+|23.02.24| 메모리 \| 파일 시스템 \| HTTP & HTTPS | [8주차 질문](/8주차.md)|
 |23.03.03|TLS/SSL handshake \| 로드밸런싱 \| Key정리|[9주차 질문](/9주차.md)|
+|23.03.11|Blocking, Non-Blocking & Synchronous \| Asynchronous Blocking & Non-Blocking I/O \| SQL - JOIN|[10주차 질문](/10주차.md)|
