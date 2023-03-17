@@ -37,3 +37,4 @@
 |23.02.24| 메모리 \| 파일 시스템 \| HTTP & HTTPS | [8주차 질문](/8주차.md)|
 |23.03.03|TLS/SSL handshake \| 로드밸런싱 \| Key정리|[9주차 질문](/9주차.md)|
 |23.03.11|Blocking, Non-Blocking & Synchronous \| Asynchronous Blocking & Non-Blocking I/O \| SQL - JOIN|[10주차 질문](/10주차.md)|
+|23.03.17| SQL Injection \| SQL & NoSQL \|정규화 |[11주차 질문](/11주차.md) |
