@@ -38,3 +38,4 @@
 |23.03.03|TLS/SSL handshake \| 로드밸런싱 \| Key정리|[9주차 질문](/9주차.md)|
 |23.03.11|Blocking, Non-Blocking & Synchronous \| Asynchronous Blocking & Non-Blocking I/O \| SQL - JOIN|[10주차 질문](/10주차.md)|
 |23.03.17| SQL Injection \| SQL & NoSQL \|정규화 |[11주차 질문](/11주차.md) |
+|23.03.24| 이상\| B-트리&B+트리 \| 인덱스 \| 트랜잭션 |[12주차 질문](/12주차.md) |
