@@ -39,3 +39,4 @@
 |23.03.11|Blocking, Non-Blocking & Synchronous \| Asynchronous Blocking & Non-Blocking I/O \| SQL - JOIN|[10주차 질문](/10주차.md)|
 |23.03.17| SQL Injection \| SQL & NoSQL \|정규화 |[11주차 질문](/11주차.md) |
 |23.03.24| 이상\| B-트리&B+트리 \| 인덱스 \| 트랜잭션 |[12주차 질문](/12주차.md) |
+|23.03.31| 트랜잭션 격리 수준 \| 저장 프로시저 \| 레디스(Redis) |[13주차 질문](/13주차.md) |
