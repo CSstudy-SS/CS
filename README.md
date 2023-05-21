@@ -46,5 +46,5 @@
 |23.04.28| PCB 와 Context switching \|CPU 스케줄링 \|교착 상태(DeadLock) \|Race Condition \|세마포어 & 뮤텍스 | [17주차 질문](/17주차.md) |
 |23.05.05| 데드락(DeadLock)\|IPC\|페이징&세그먼테이션\|파일시스템 | [18주차 질문](/18주차.md) |
 |23.05.12| OSI 7 Layer\|3 way - 4 way handshake\|혼잡제어&흐름제어\|UDP\|대칭키&공개키 | [19주차 질문](/19주차.md) |
-|23.05.19| HTTP\HTTPS \| TLS/SSL handshake \| 로드밸런싱 \| Blocking - NonBlocking & Synchronous - Asynchronous \| Blocking & Non-Blocking IO \|
-[20주차 질문](/20주차.md)
+|23.05.19| HTTP\HTTPS \| TLS/SSL handshake \| 로드밸런싱 \| Blocking - NonBlocking & Synchronous - Asynchronous \| Blocking & Non-Blocking IO |
+[20주차 질문](/20주차.md) | 
