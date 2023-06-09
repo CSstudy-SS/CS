@@ -49,3 +49,4 @@
 |23.05.19| HTTP\HTTPS \| TLS/SSL handshake \| 로드밸런싱 \| Blocking - NonBlocking & Synchronous - Asynchronous \| Blocking & Non-Blocking IO |[20주차 질문](/20주차.md) | 
 |23.05.26| 키정리 \| SQL-JOIN \| SQL Injection \| SQL vs NoSQL \| 정규화 \| 이상 | [21주차 질문](/21주차.md) | 
 |23.06.02| 인덱스 \| 트랜잭션 \| 트랜잭션 격리수준 \| Redis \| 프로시저 | [22주차 질문](/22주차.md) |
+|23.06.09| 자료구조 | [23주차 질문](/23주차.md) |
