@@ -57,3 +57,4 @@
 | 날짜     | 주제                             | 질문 목록               |
 | -------- | -------------------------------- | ----------------------- |
 |23.08.12| `JAVA 컴파일과정`,`JVM가상머신`,`운영체제`,`프로세스&스레드`,`프로세스주소공간` | [25주차 질문](/25주차.md) | 
+|23.08.17|`인터럽트와 시스템콜`,`PCB와 Context Switching`,`Call by Value vs Call by Reference`, `String & StringBuffer & StringBuilder,Casting` | (/26주차.md) | 
