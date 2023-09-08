@@ -59,4 +59,4 @@
 |23.08.12| `JAVA 컴파일과정`,`JVM가상머신`,`운영체제`,`프로세스&스레드`,`프로세스주소공간` | [25주차 질문](/25주차.md) | 
 |23.08.17|`인터럽트와 시스템콜`,`PCB와 Context Switching`,`Call by Value vs Call by Reference`, `String & StringBuffer & StringBuilder,Casting` | [26주차 질문](/26주차.md) | 
 |23.08.25| `오토박싱 & 오토언박싱` , `Thread 활용`, `고유락`, `IPC`, `CPU 스케줄링` | [27주차 질문](/27주차.md) | 
-|23.08.25| `문자열 클래스` , `Garbage Collection`, `Promotion & Casting`, `데드락`, `Race Condition`, `세마포어(Semaphore) & 뮤텍스`| [28주차 질문](/28주차.md) | 
+|23.09.02| `문자열 클래스` , `Garbage Collection`, `Promotion & Casting`, `데드락`, `Race Condition`, `세마포어(Semaphore) & 뮤텍스`| [28주차 질문](/28주차.md) | 
