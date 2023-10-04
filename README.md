@@ -60,3 +60,5 @@
 |23.08.17|`인터럽트와 시스템콜`,`PCB와 Context Switching`,`Call by Value vs Call by Reference`, `String & StringBuffer & StringBuilder,Casting` | [26주차 질문](/26주차.md) | 
 |23.08.25| `오토박싱 & 오토언박싱` , `Thread 활용`, `고유락`, `IPC`, `CPU 스케줄링` | [27주차 질문](/27주차.md) | 
 |23.09.02| `문자열 클래스` , `Garbage Collection`, `Promotion & Casting`, `데드락`, `Race Condition`, `세마포어(Semaphore) & 뮤텍스`| [28주차 질문](/28주차.md) | 
+|23.09.09| `Promotion & Casting` , `Primitive type & Reference type`, `직렬화`, `페이징 & 세그멘테이션`, `페이지 교체 알고리즘`| [29주차 질문](/29주차.md) | 
+|23.09.16| `Error & Exception` , `JAVA Stream`, `Record`| [30주차 질문](/30주차.md) | 
