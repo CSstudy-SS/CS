@@ -62,4 +62,5 @@
 |23.09.02| `문자열 클래스` , `Garbage Collection`, `Promotion & Casting`, `데드락`, `Race Condition`, `세마포어(Semaphore) & 뮤텍스`| [28주차 질문](/28주차.md) | 
 |23.09.09| `Promotion & Casting` , `Primitive type & Reference type`, `직렬화`, `페이징 & 세그멘테이션`, `페이지 교체 알고리즘`|[29주차 질문](/29주차.md)| 
 |23.09.16| `Error & Exception` , `JAVA Stream`, `Record`|[30주차 질문](/30주차.md) | 
+|23.09.23| `Interend String in Java` , `Composition`, `OSI 7 계층`,`TCP 3 way handshake & 4 way handshake`|[31주차 질문](/31주차.md) | 
 |23.10.08| `TCP\|IP 흐름제어 & 혼잡제어` ~ `TLS/SSL handshake`| 복습 | 
